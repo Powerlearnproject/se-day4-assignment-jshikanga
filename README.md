@@ -421,6 +421,7 @@ How Integration Enhances the Development Workflow
 3.	Continuous Integration: Integration with GitHub allows Visual Studio to work seamlessly with CI/CD pipelines (like GitHub Actions), enabling automated builds and tests to run whenever code is pushed or a pull request is created.
 4.	Code Reviews and Pull Requests: Developers can initiate and manage pull requests from within Visual Studio, making it easier to conduct code reviews, discuss changes, and merge code in a controlled manner.
 5.	Real-time Feedback: Integrated Git features provide real-time feedback on code changes, conflicts, and the status of pull requests, helping developers to quickly address issues and keep the codebase in a healthy state.
+
 Debugging in Visual Studio
 Debugging is one of the most powerful features of Visual Studio, allowing developers to identify and fix issues in their code efficiently. Here's an overview of debugging in Visual Studio:
 Key Debugging Features
